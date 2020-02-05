@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Ine Dah. I am espiring to be a Front End Web Developer 
 
-Things you may want to cover:
+I am doing this project to relearn HTML7, CSS, Javascript, Jquery etc. 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I am excited to refresh my memory on what I learned last year during class. This is a learning experience and process. 
